@@ -4,27 +4,27 @@ A curated collection of leading Shopify e-commerce stores organized by industry 
 
 ---
 
-## 💅 Beauty & Skincare
+## Beauty & Skincare
 * [Glossier](https://www.glossier.com/)
 * [Fenty Beauty](https://fentybeauty.com/)
 * [Kylie Cosmetics](https://kyliecosmetics.com/)
 
-## 🏡 Home, Furniture & Bedding
+## Home, Furniture & Bedding
 * [Ruggable](https://ruggable.com/)
 * [GOODEE](https://www.goodeeworld.com/)
 * [Brooklinen](https://www.brooklinen.com/)
 
-## ☕ Food & Beverage
+## Food & Beverage
 * [BLK & Bold](https://blkandbold.com/)
 * [Fly By Jing](https://flybyjing.com/)
 * [Huel](https://huel.com/)
 * [Liquid Death](https://liquiddeath.com/)
 
-## 🧘 Health, Wellness & Fitness
+## Health, Wellness & Fitness
 * [Liquid I.V.](https://www.liquid-iv.com/)
 * [Alo Yoga](https://www.aloyoga.com/)
 
-## ✈️ Lifestyle, Travel & Accessories
+## Lifestyle, Travel & Accessories
 * [Monos](https://monos.com/)
 * [Pura Vida Bracelets](https://www.puravidabracelets.com/)
 
